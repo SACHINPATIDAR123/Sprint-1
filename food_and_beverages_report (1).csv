@@ -1,0 +1,609 @@
+Item,Price (INR),Category,Subcategory,date,quantity,City,branch,amount,profit
+Americano,200,Beverage,Other,01-01-2023,8,Indore,CAFE 3,1600,880.0000000000001
+Apple Juice,150,Beverage,Juice,02-01-2023,3,Indore,CAFE 1,450,247.50000000000003
+Black Tea,100,Beverage,Tea,03-01-2023,7,Pune,CAFE 3,700,385.00000000000006
+Bottled Water,80,Beverage,Other,04-01-2023,4,Delhi,CAFE 1,320,176.0
+Cappuccino,250,Beverage,Other,05-01-2023,5,Pune,CAFE 3,1250,687.5
+Chai Latte,200,Beverage,Tea,06-01-2023,8,Delhi,CAFE 1,1600,880.0000000000001
+Coconut Water,150,Beverage,Other,07-01-2023,2,Indore,CAFE 2,300,165.0
+Cola,80,Beverage,Soda,08-01-2023,6,Bangalore,CAFE 1,480,264.0
+Cold Brew,220,Beverage,Iced Drinks,09-01-2023,6,Pune,CAFE 2,1320,726.0000000000001
+Diet Cola,80,Beverage,Soda,10-01-2023,5,Indore,CAFE 1,400,220.00000000000003
+Energy Drink,150,Beverage,Soda,11-01-2023,3,Delhi,CAFE 2,450,247.50000000000003
+Espresso,150,Beverage,Other,12-01-2023,3,Delhi,CAFE 1,450,247.50000000000003
+Flat White,230,Beverage,Other,13-01-2023,2,Bangalore,CAFE 2,460,253.00000000000003
+Ginger Ale,100,Beverage,Other,14-01-2023,4,Delhi,CAFE 1,400,220.00000000000003
+Grapefruit Juice,150,Beverage,Juice,15-01-2023,4,Pune,CAFE 3,600,330.0
+Green Tea,100,Beverage,Tea,16-01-2023,5,Indore,CAFE 1,500,275.0
+Herbal Tea,100,Beverage,Tea,17-01-2023,4,Bangalore,CAFE 2,400,220.00000000000003
+Hot Chocolate,220,Beverage,Other,18-01-2023,10,Pune,CAFE 1,2200,1210.0
+Iced Coffee,200,Beverage,Coffee,19-01-2023,4,Bangalore,CAFE 3,800,440.00000000000006
+Iced Tea,150,Beverage,Tea,20-01-2023,5,Indore,CAFE 3,750,412.50000000000006
+Latte,250,Beverage,Other,21-01-2023,1,Delhi,CAFE 2,250,137.5
+Lemon Lime Soda,80,Beverage,Soda,22-01-2023,8,Bangalore,CAFE 1,640,352.0
+Lemonade,150,Beverage,Other,23-01-2023,3,Pune,CAFE 3,450,247.50000000000003
+Matcha Latte,300,Beverage,Other,24-01-2023,1,Delhi,CAFE 3,300,165.0
+Milkshake,200,Beverage,Ice Creams,25-01-2023,1,Bangalore,CAFE 1,200,110.00000000000001
+Mocha,250,Beverage,Other,26-01-2023,5,Delhi,CAFE 2,1250,687.5
+Orange Juice,150,Beverage,Juice,27-01-2023,4,Bangalore,CAFE 1,600,330.0
+Root Beer,100,Beverage,Other,28-01-2023,7,Pune,CAFE 2,700,385.00000000000006
+Smoothie,140,Beverage,Smoothies,29-01-2023,5,Delhi,CAFE 1,700,385.00000000000006
+Sparkling Water,400,Beverage,Other,30-01-2023,3,Indore,CAFE 2,1200,660.0
+Bagel,80,Beverage,Pastries,31-01-2023,10,Delhi,CAFE 1,800,440.00000000000006
+Biscuit,50,Beverage,Other,01-02-2023,5,Bangalore,CAFE 1,250,137.5
+Brownie,120,Beverage,Desserts,02-02-2023,5,Bangalore,CAFE 3,600,330.0
+Burger (Beef),250,Food,Burger,03-02-2023,8,Pune,CAFE 1,2000,1200.0
+Burger (Chicken),220,Food,Burger,04-02-2023,8,Bangalore,CAFE 3,1760,1056.0
+Burger (Veggie),200,Food,Burger,05-02-2023,6,Indore,CAFE 2,1200,720.0
+Burrito (Bean),180,Food,Other,06-02-2023,8,Indore,CAFE 1,1440,864.0
+Burrito (Chicken),220,Food,Other,07-02-2023,4,Indore,CAFE 3,880,528.0
+Cheesecake,200,Beverage,Desserts,08-02-2023,2,Bangalore,CAFE 2,400,220.00000000000003
+Chicken Wings,250,Beverage,Other,09-02-2023,2,Pune,CAFE 2,500,275.0
+Chocolate Cake,150,Beverage,Desserts,10-02-2023,10,Indore,CAFE 3,1500,825.0000000000001
+Cookie (Chocolate Chip),60,Beverage,Pastries,11-02-2023,6,Pune,CAFE 2,360,198.00000000000003
+Cookie (Oatmeal Raisin),60,Beverage,Pastries,12-02-2023,4,Delhi,CAFE 1,240,132.0
+Croissant,70,Beverage,Pastries,13-02-2023,2,Pune,CAFE 1,140,77.0
+Danish Pastry,90,Beverage,Pastries,14-02-2023,3,Pune,CAFE 1,270,148.5
+Dumplings,150,Beverage,Snacks,15-02-2023,2,Bangalore,CAFE 2,300,165.0
+Fries,100,Beverage,Snacks,16-02-2023,5,Bangalore,CAFE 2,500,275.0
+Gelato (Pistachio),100,Beverage,Ice Creams,17-02-2023,5,Pune,CAFE 3,500,275.0
+Ice Cream (Chocolate),100,Beverage,Ice Creams,18-02-2023,10,Pune,CAFE 3,1000,550.0
+Ice Cream (Vanilla),80,Beverage,Ice Creams,19-02-2023,6,Indore,CAFE 2,480,264.0
+Mozzarella Sticks,120,Beverage,Other,20-02-2023,10,Delhi,CAFE 2,1200,660.0
+Muffin,100,Beverage,Other,21-02-2023,4,Pune,CAFE 2,400,220.00000000000003
+Nachos,300,Beverage,Snacks,22-02-2023,6,Indore,CAFE 2,1800,990.0000000000001
+Onion Rings,250,Beverage,Snacks,23-02-2023,3,Pune,CAFE 2,750,412.50000000000006
+Pasta (Fettuccine Alfredo),250,Food,Other,24-02-2023,8,Delhi,CAFE 2,2000,1200.0
+Pasta (Penne Arrabbiata),150,Food,Other,25-02-2023,9,Delhi,CAFE 2,1350,810.0
+Pizza (Margherita),100,Food,Pizza,26-02-2023,9,Indore,CAFE 2,900,540.0
+Pizza (Pepperoni),140,Food,Pizza,27-02-2023,4,Bangalore,CAFE 3,560,336.0
+Pizza (Veggie),400,Food,Pizza,28-02-2023,5,Pune,CAFE 3,2000,1200.0
+Pudding (Chocolate),80,Beverage,Desserts,01-03-2023,8,Indore,CAFE 3,640,352.0
+Pudding (Vanilla),200,Beverage,Desserts,02-03-2023,9,Delhi,CAFE 1,1800,990.0000000000001
+Quiche,150,Beverage,Other,03-03-2023,1,Indore,CAFE 1,150,82.5
+Salad (Caesar),120,Beverage,Salads,04-03-2023,5,Pune,CAFE 3,600,330.0
+Salad (Garden),180,Beverage,Salads,05-03-2023,10,Pune,CAFE 3,1800,990.0000000000001
+Salad (Greek),70,Beverage,Salads,06-03-2023,5,Indore,CAFE 3,350,192.50000000000003
+Scone,150,Beverage,Other,07-03-2023,9,Pune,CAFE 2,1350,742.5000000000001
+Spring Rolls,120,Beverage,Snacks,08-03-2023,9,Delhi,CAFE 2,1080,594.0
+Sweet Potato Fries,200,Beverage,Snacks,09-03-2023,8,Indore,CAFE 3,1600,880.0000000000001
+Tacos (Beef),180,Beverage,Wraps/Tacos,10-03-2023,6,Indore,CAFE 1,1080,594.0
+Tacos (Chicken),160,Beverage,Wraps/Tacos,11-03-2023,3,Delhi,CAFE 3,480,264.0
+Tacos (Veggie),200,Beverage,Wraps/Tacos,12-03-2023,7,Indore,CAFE 3,1400,770.0000000000001
+Tiramisu,220,Beverage,Other,13-03-2023,4,Indore,CAFE 3,880,484.00000000000006
+Wrap (Chicken),250,Beverage,Wraps/Tacos,14-03-2023,9,Delhi,CAFE 3,2250,1237.5
+Wrap (Veggie),260,Beverage,Wraps/Tacos,15-03-2023,7,Bangalore,CAFE 1,1820,1001.0000000000001
+Americano,200,Beverage,Other,16-03-2023,8,Pune,CAFE 3,1600,880.0000000000001
+Apple Juice,150,Beverage,Juice,17-03-2023,8,Delhi,CAFE 3,1200,660.0
+Black Tea,100,Beverage,Tea,18-03-2023,3,Delhi,CAFE 1,300,165.0
+Bottled Water,80,Beverage,Other,19-03-2023,2,Delhi,CAFE 1,160,88.0
+Cappuccino,250,Beverage,Other,20-03-2023,5,Bangalore,CAFE 2,1250,687.5
+Chai Latte,200,Beverage,Tea,21-03-2023,4,Pune,CAFE 3,800,440.00000000000006
+Coconut Water,150,Beverage,Other,22-03-2023,3,Pune,CAFE 3,450,247.50000000000003
+Cola,80,Beverage,Soda,23-03-2023,7,Indore,CAFE 2,560,308.0
+Cold Brew,220,Beverage,Iced Drinks,24-03-2023,7,Pune,CAFE 1,1540,847.0000000000001
+Diet Cola,80,Beverage,Soda,25-03-2023,5,Delhi,CAFE 1,400,220.00000000000003
+Energy Drink,150,Beverage,Soda,26-03-2023,8,Indore,CAFE 2,1200,660.0
+Espresso,150,Beverage,Other,27-03-2023,4,Delhi,CAFE 2,600,330.0
+Flat White,230,Beverage,Other,28-03-2023,3,Pune,CAFE 3,690,379.50000000000006
+Ginger Ale,100,Beverage,Other,29-03-2023,5,Bangalore,CAFE 1,500,275.0
+Grapefruit Juice,150,Beverage,Juice,30-03-2023,10,Bangalore,CAFE 2,1500,825.0000000000001
+Green Tea,100,Beverage,Tea,31-03-2023,1,Pune,CAFE 3,100,55.00000000000001
+Herbal Tea,100,Beverage,Tea,01-04-2023,7,Delhi,CAFE 1,700,385.00000000000006
+Hot Chocolate,220,Beverage,Other,02-04-2023,2,Indore,CAFE 3,440,242.00000000000003
+Iced Coffee,200,Beverage,Coffee,03-04-2023,7,Indore,CAFE 3,1400,770.0000000000001
+Iced Tea,150,Beverage,Tea,04-04-2023,2,Pune,CAFE 2,300,165.0
+Latte,250,Beverage,Other,05-04-2023,3,Bangalore,CAFE 1,750,412.50000000000006
+Lemon Lime Soda,80,Beverage,Soda,06-04-2023,9,Pune,CAFE 2,720,396.00000000000006
+Lemonade,150,Beverage,Other,07-04-2023,2,Indore,CAFE 1,300,165.0
+Matcha Latte,300,Beverage,Other,08-04-2023,7,Pune,CAFE 2,2100,1155.0
+Milkshake,200,Beverage,Ice Creams,09-04-2023,7,Pune,CAFE 2,1400,770.0000000000001
+Mocha,250,Beverage,Other,10-04-2023,3,Delhi,CAFE 2,750,412.50000000000006
+Orange Juice,150,Beverage,Juice,11-04-2023,8,Bangalore,CAFE 1,1200,660.0
+Root Beer,100,Beverage,Other,12-04-2023,8,Bangalore,CAFE 1,800,440.00000000000006
+Smoothie,140,Beverage,Smoothies,13-04-2023,2,Pune,CAFE 2,280,154.0
+Sparkling Water,400,Beverage,Other,14-04-2023,2,Indore,CAFE 2,800,440.00000000000006
+Bagel,80,Beverage,Pastries,15-04-2023,4,Indore,CAFE 3,320,176.0
+Biscuit,50,Beverage,Other,16-04-2023,2,Indore,CAFE 3,100,55.00000000000001
+Brownie,120,Beverage,Desserts,17-04-2023,7,Delhi,CAFE 2,840,462.00000000000006
+Burger (Beef),250,Food,Burger,18-04-2023,6,Delhi,CAFE 2,1500,900.0
+Burger (Chicken),220,Food,Burger,19-04-2023,5,Indore,CAFE 3,1100,660.0
+Burger (Veggie),200,Food,Burger,20-04-2023,8,Pune,CAFE 1,1600,960.0
+Burrito (Bean),180,Food,Other,21-04-2023,1,Delhi,CAFE 1,180,108.0
+Burrito (Chicken),220,Food,Other,22-04-2023,7,Indore,CAFE 3,1540,924.0
+Cheesecake,200,Beverage,Desserts,23-04-2023,7,Bangalore,CAFE 1,1400,770.0000000000001
+Chicken Wings,250,Beverage,Other,24-04-2023,8,Pune,CAFE 2,2000,1100.0
+Chocolate Cake,150,Beverage,Desserts,25-04-2023,7,Pune,CAFE 2,1050,577.5
+Cookie (Chocolate Chip),60,Beverage,Pastries,26-04-2023,8,Bangalore,CAFE 1,480,264.0
+Cookie (Oatmeal Raisin),60,Beverage,Pastries,27-04-2023,4,Delhi,CAFE 2,240,132.0
+Croissant,70,Beverage,Pastries,28-04-2023,1,Bangalore,CAFE 3,70,38.5
+Danish Pastry,90,Beverage,Pastries,29-04-2023,8,Bangalore,CAFE 3,720,396.00000000000006
+Dumplings,150,Beverage,Snacks,30-04-2023,9,Indore,CAFE 2,1350,742.5000000000001
+Fries,100,Beverage,Snacks,01-05-2023,6,Pune,CAFE 3,600,330.0
+Gelato (Pistachio),100,Beverage,Ice Creams,02-05-2023,3,Pune,CAFE 2,300,165.0
+Ice Cream (Chocolate),100,Beverage,Ice Creams,03-05-2023,5,Bangalore,CAFE 2,500,275.0
+Ice Cream (Vanilla),80,Beverage,Ice Creams,04-05-2023,10,Bangalore,CAFE 3,800,440.00000000000006
+Mozzarella Sticks,120,Beverage,Other,05-05-2023,1,Delhi,CAFE 3,120,66.0
+Muffin,100,Beverage,Other,06-05-2023,1,Delhi,CAFE 2,100,55.00000000000001
+Nachos,300,Beverage,Snacks,07-05-2023,1,Pune,CAFE 2,300,165.0
+Onion Rings,250,Beverage,Snacks,08-05-2023,4,Bangalore,CAFE 1,1000,550.0
+Pasta (Fettuccine Alfredo),250,Food,Other,09-05-2023,5,Bangalore,CAFE 3,1250,750.0
+Pasta (Penne Arrabbiata),150,Food,Other,10-05-2023,5,Delhi,CAFE 1,750,450.0
+Pizza (Margherita),100,Food,Pizza,11-05-2023,7,Delhi,CAFE 3,700,420.0
+Pizza (Pepperoni),140,Food,Pizza,12-05-2023,2,Indore,CAFE 3,280,168.0
+Pizza (Veggie),400,Food,Pizza,13-05-2023,8,Indore,CAFE 3,3200,1920.0
+Pudding (Chocolate),80,Beverage,Desserts,14-05-2023,8,Pune,CAFE 2,640,352.0
+Pudding (Vanilla),200,Beverage,Desserts,15-05-2023,10,Bangalore,CAFE 1,2000,1100.0
+Quiche,150,Beverage,Other,16-05-2023,6,Bangalore,CAFE 3,900,495.00000000000006
+Salad (Caesar),120,Beverage,Salads,17-05-2023,5,Indore,CAFE 3,600,330.0
+Salad (Garden),180,Beverage,Salads,18-05-2023,7,Delhi,CAFE 3,1260,693.0
+Salad (Greek),70,Beverage,Salads,19-05-2023,6,Bangalore,CAFE 3,420,231.00000000000003
+Scone,150,Beverage,Other,20-05-2023,9,Delhi,CAFE 3,1350,742.5000000000001
+Spring Rolls,120,Beverage,Snacks,21-05-2023,1,Pune,CAFE 1,120,66.0
+Sweet Potato Fries,200,Beverage,Snacks,22-05-2023,9,Pune,CAFE 3,1800,990.0000000000001
+Tacos (Beef),180,Beverage,Wraps/Tacos,23-05-2023,7,Pune,CAFE 1,1260,693.0
+Tacos (Chicken),160,Beverage,Wraps/Tacos,24-05-2023,1,Delhi,CAFE 3,160,88.0
+Tacos (Veggie),200,Beverage,Wraps/Tacos,25-05-2023,5,Indore,CAFE 1,1000,550.0
+Tiramisu,220,Beverage,Other,26-05-2023,9,Pune,CAFE 2,1980,1089.0
+Wrap (Chicken),250,Beverage,Wraps/Tacos,27-05-2023,2,Indore,CAFE 3,500,275.0
+Wrap (Veggie),260,Beverage,Wraps/Tacos,28-05-2023,1,Delhi,CAFE 3,260,143.0
+Americano,200,Beverage,Other,29-05-2023,9,Indore,CAFE 2,1800,990.0000000000001
+Apple Juice,150,Beverage,Juice,30-05-2023,3,Delhi,CAFE 1,450,247.50000000000003
+Black Tea,100,Beverage,Tea,31-05-2023,6,Pune,CAFE 2,600,330.0
+Bottled Water,80,Beverage,Other,01-06-2023,4,Bangalore,CAFE 2,320,176.0
+Cappuccino,250,Beverage,Other,02-06-2023,7,Pune,CAFE 1,1750,962.5000000000001
+Chai Latte,200,Beverage,Tea,03-06-2023,2,Indore,CAFE 2,400,220.00000000000003
+Coconut Water,150,Beverage,Other,04-06-2023,9,Delhi,CAFE 3,1350,742.5000000000001
+Cola,80,Beverage,Soda,05-06-2023,7,Delhi,CAFE 2,560,308.0
+Cold Brew,220,Beverage,Iced Drinks,06-06-2023,2,Indore,CAFE 2,440,242.00000000000003
+Diet Cola,80,Beverage,Soda,07-06-2023,9,Pune,CAFE 3,720,396.00000000000006
+Energy Drink,150,Beverage,Soda,08-06-2023,3,Indore,CAFE 1,450,247.50000000000003
+Espresso,150,Beverage,Other,09-06-2023,5,Pune,CAFE 3,750,412.50000000000006
+Flat White,230,Beverage,Other,10-06-2023,10,Indore,CAFE 3,2300,1265.0
+Ginger Ale,100,Beverage,Other,11-06-2023,2,Delhi,CAFE 3,200,110.00000000000001
+Grapefruit Juice,150,Beverage,Juice,12-06-2023,5,Pune,CAFE 2,750,412.50000000000006
+Green Tea,100,Beverage,Tea,13-06-2023,9,Indore,CAFE 2,900,495.00000000000006
+Herbal Tea,100,Beverage,Tea,14-06-2023,7,Pune,CAFE 2,700,385.00000000000006
+Hot Chocolate,220,Beverage,Other,15-06-2023,8,Pune,CAFE 2,1760,968.0000000000001
+Iced Coffee,200,Beverage,Coffee,16-06-2023,8,Delhi,CAFE 1,1600,880.0000000000001
+Iced Tea,150,Beverage,Tea,17-06-2023,3,Bangalore,CAFE 2,450,247.50000000000003
+Latte,250,Beverage,Other,18-06-2023,9,Pune,CAFE 2,2250,1237.5
+Lemon Lime Soda,80,Beverage,Soda,19-06-2023,10,Indore,CAFE 1,800,440.00000000000006
+Lemonade,150,Beverage,Other,20-06-2023,10,Indore,CAFE 1,1500,825.0000000000001
+Matcha Latte,300,Beverage,Other,21-06-2023,4,Indore,CAFE 1,1200,660.0
+Milkshake,200,Beverage,Ice Creams,22-06-2023,9,Delhi,CAFE 2,1800,990.0000000000001
+Mocha,250,Beverage,Other,23-06-2023,2,Delhi,CAFE 1,500,275.0
+Orange Juice,150,Beverage,Juice,24-06-2023,10,Bangalore,CAFE 3,1500,825.0000000000001
+Root Beer,100,Beverage,Other,25-06-2023,7,Indore,CAFE 3,700,385.00000000000006
+Smoothie,140,Beverage,Smoothies,26-06-2023,10,Pune,CAFE 2,1400,770.0000000000001
+Sparkling Water,400,Beverage,Other,27-06-2023,2,Pune,CAFE 1,800,440.00000000000006
+Bagel,80,Beverage,Pastries,28-06-2023,4,Bangalore,CAFE 3,320,176.0
+Biscuit,50,Beverage,Other,29-06-2023,9,Pune,CAFE 2,450,247.50000000000003
+Brownie,120,Beverage,Desserts,30-06-2023,7,Indore,CAFE 2,840,462.00000000000006
+Burger (Beef),250,Food,Burger,01-07-2023,9,Pune,CAFE 1,2250,1350.0
+Burger (Chicken),220,Food,Burger,02-07-2023,2,Bangalore,CAFE 3,440,264.0
+Burger (Veggie),200,Food,Burger,03-07-2023,4,Pune,CAFE 2,800,480.0
+Burrito (Bean),180,Food,Other,04-07-2023,6,Indore,CAFE 3,1080,648.0
+Burrito (Chicken),220,Food,Other,05-07-2023,2,Bangalore,CAFE 1,440,264.0
+Cheesecake,200,Beverage,Desserts,06-07-2023,2,Delhi,CAFE 1,400,220.00000000000003
+Chicken Wings,250,Beverage,Other,07-07-2023,2,Pune,CAFE 1,500,275.0
+Chocolate Cake,150,Beverage,Desserts,08-07-2023,4,Delhi,CAFE 3,600,330.0
+Cookie (Chocolate Chip),60,Beverage,Pastries,09-07-2023,6,Delhi,CAFE 3,360,198.00000000000003
+Cookie (Oatmeal Raisin),60,Beverage,Pastries,10-07-2023,10,Pune,CAFE 3,600,330.0
+Croissant,70,Beverage,Pastries,11-07-2023,5,Indore,CAFE 1,350,192.50000000000003
+Danish Pastry,90,Beverage,Pastries,12-07-2023,10,Pune,CAFE 3,900,495.00000000000006
+Dumplings,150,Beverage,Snacks,13-07-2023,6,Indore,CAFE 1,900,495.00000000000006
+Fries,100,Beverage,Snacks,14-07-2023,5,Delhi,CAFE 3,500,275.0
+Gelato (Pistachio),100,Beverage,Ice Creams,15-07-2023,3,Bangalore,CAFE 1,300,165.0
+Ice Cream (Chocolate),100,Beverage,Ice Creams,16-07-2023,2,Indore,CAFE 2,200,110.00000000000001
+Ice Cream (Vanilla),80,Beverage,Ice Creams,17-07-2023,8,Pune,CAFE 3,640,352.0
+Mozzarella Sticks,120,Beverage,Other,18-07-2023,9,Pune,CAFE 2,1080,594.0
+Muffin,100,Beverage,Other,19-07-2023,10,Pune,CAFE 2,1000,550.0
+Nachos,300,Beverage,Snacks,20-07-2023,6,Pune,CAFE 2,1800,990.0000000000001
+Onion Rings,250,Beverage,Snacks,21-07-2023,2,Delhi,CAFE 3,500,275.0
+Pasta (Fettuccine Alfredo),250,Food,Other,22-07-2023,9,Delhi,CAFE 3,2250,1350.0
+Pasta (Penne Arrabbiata),150,Food,Other,23-07-2023,6,Bangalore,CAFE 2,900,540.0
+Pizza (Margherita),100,Food,Pizza,24-07-2023,3,Pune,CAFE 1,300,180.0
+Pizza (Pepperoni),140,Food,Pizza,25-07-2023,2,Bangalore,CAFE 1,280,168.0
+Pizza (Veggie),400,Food,Pizza,26-07-2023,5,Indore,CAFE 2,2000,1200.0
+Pudding (Chocolate),80,Beverage,Desserts,27-07-2023,2,Delhi,CAFE 1,160,88.0
+Pudding (Vanilla),200,Beverage,Desserts,28-07-2023,8,Delhi,CAFE 3,1600,880.0000000000001
+Quiche,150,Beverage,Other,29-07-2023,8,Delhi,CAFE 2,1200,660.0
+Salad (Caesar),120,Beverage,Salads,30-07-2023,4,Bangalore,CAFE 1,480,264.0
+Salad (Garden),180,Beverage,Salads,31-07-2023,9,Pune,CAFE 3,1620,891.0000000000001
+Salad (Greek),70,Beverage,Salads,01-08-2023,1,Indore,CAFE 3,70,38.5
+Scone,150,Beverage,Other,02-08-2023,10,Bangalore,CAFE 3,1500,825.0000000000001
+Spring Rolls,120,Beverage,Snacks,03-08-2023,9,Bangalore,CAFE 1,1080,594.0
+Sweet Potato Fries,200,Beverage,Snacks,04-08-2023,2,Pune,CAFE 1,400,220.00000000000003
+Tacos (Beef),180,Beverage,Wraps/Tacos,05-08-2023,4,Pune,CAFE 3,720,396.00000000000006
+Tacos (Chicken),160,Beverage,Wraps/Tacos,06-08-2023,7,Pune,CAFE 3,1120,616.0
+Tacos (Veggie),200,Beverage,Wraps/Tacos,07-08-2023,10,Bangalore,CAFE 3,2000,1100.0
+Tiramisu,220,Beverage,Other,08-08-2023,4,Indore,CAFE 2,880,484.00000000000006
+Wrap (Chicken),250,Beverage,Wraps/Tacos,09-08-2023,2,Pune,CAFE 1,500,275.0
+Wrap (Veggie),260,Beverage,Wraps/Tacos,10-08-2023,4,Delhi,CAFE 3,1040,572.0
+Americano,200,Beverage,Other,11-08-2023,4,Delhi,CAFE 3,800,440.00000000000006
+Apple Juice,150,Beverage,Juice,12-08-2023,5,Indore,CAFE 1,750,412.50000000000006
+Black Tea,100,Beverage,Tea,13-08-2023,5,Bangalore,CAFE 1,500,275.0
+Bottled Water,80,Beverage,Other,14-08-2023,5,Bangalore,CAFE 3,400,220.00000000000003
+Cappuccino,250,Beverage,Other,15-08-2023,3,Pune,CAFE 1,750,412.50000000000006
+Chai Latte,200,Beverage,Tea,16-08-2023,10,Indore,CAFE 1,2000,1100.0
+Coconut Water,150,Beverage,Other,17-08-2023,3,Pune,CAFE 3,450,247.50000000000003
+Cola,80,Beverage,Soda,18-08-2023,1,Pune,CAFE 2,80,44.0
+Cold Brew,220,Beverage,Iced Drinks,19-08-2023,2,Delhi,CAFE 3,440,242.00000000000003
+Diet Cola,80,Beverage,Soda,20-08-2023,1,Pune,CAFE 2,80,44.0
+Energy Drink,150,Beverage,Soda,21-08-2023,5,Indore,CAFE 1,750,412.50000000000006
+Espresso,150,Beverage,Other,22-08-2023,10,Pune,CAFE 3,1500,825.0000000000001
+Flat White,230,Beverage,Other,23-08-2023,5,Pune,CAFE 1,1150,632.5
+Ginger Ale,100,Beverage,Other,24-08-2023,4,Pune,CAFE 3,400,220.00000000000003
+Grapefruit Juice,150,Beverage,Juice,25-08-2023,3,Delhi,CAFE 3,450,247.50000000000003
+Green Tea,100,Beverage,Tea,26-08-2023,10,Pune,CAFE 1,1000,550.0
+Herbal Tea,100,Beverage,Tea,27-08-2023,6,Indore,CAFE 1,600,330.0
+Hot Chocolate,220,Beverage,Other,28-08-2023,7,Pune,CAFE 1,1540,847.0000000000001
+Iced Coffee,200,Beverage,Coffee,29-08-2023,8,Pune,CAFE 2,1600,880.0000000000001
+Iced Tea,150,Beverage,Tea,30-08-2023,10,Pune,CAFE 3,1500,825.0000000000001
+Latte,250,Beverage,Other,31-08-2023,4,Delhi,CAFE 3,1000,550.0
+Lemon Lime Soda,80,Beverage,Soda,01-09-2023,6,Indore,CAFE 1,480,264.0
+Lemonade,150,Beverage,Other,02-09-2023,9,Delhi,CAFE 3,1350,742.5000000000001
+Matcha Latte,300,Beverage,Other,03-09-2023,1,Pune,CAFE 1,300,165.0
+Milkshake,200,Beverage,Ice Creams,04-09-2023,4,Pune,CAFE 3,800,440.00000000000006
+Mocha,250,Beverage,Other,05-09-2023,8,Pune,CAFE 3,2000,1100.0
+Orange Juice,150,Beverage,Juice,06-09-2023,3,Bangalore,CAFE 2,450,247.50000000000003
+Root Beer,100,Beverage,Other,07-09-2023,6,Bangalore,CAFE 3,600,330.0
+Smoothie,140,Beverage,Smoothies,08-09-2023,7,Indore,CAFE 3,980,539.0
+Sparkling Water,400,Beverage,Other,09-09-2023,7,Indore,CAFE 2,2800,1540.0000000000002
+Bagel,80,Beverage,Pastries,10-09-2023,4,Bangalore,CAFE 2,320,176.0
+Biscuit,50,Beverage,Other,11-09-2023,10,Delhi,CAFE 2,500,275.0
+Brownie,120,Beverage,Desserts,12-09-2023,2,Bangalore,CAFE 2,240,132.0
+Burger (Beef),250,Food,Burger,13-09-2023,9,Delhi,CAFE 2,2250,1350.0
+Burger (Chicken),220,Food,Burger,14-09-2023,6,Delhi,CAFE 2,1320,792.0
+Burger (Veggie),200,Food,Burger,15-09-2023,10,Delhi,CAFE 2,2000,1200.0
+Burrito (Bean),180,Food,Other,16-09-2023,10,Pune,CAFE 3,1800,1080.0
+Burrito (Chicken),220,Food,Other,17-09-2023,2,Pune,CAFE 2,440,264.0
+Cheesecake,200,Beverage,Desserts,18-09-2023,6,Delhi,CAFE 3,1200,660.0
+Chicken Wings,250,Beverage,Other,19-09-2023,7,Delhi,CAFE 2,1750,962.5000000000001
+Chocolate Cake,150,Beverage,Desserts,20-09-2023,4,Bangalore,CAFE 2,600,330.0
+Cookie (Chocolate Chip),60,Beverage,Pastries,21-09-2023,9,Indore,CAFE 3,540,297.0
+Cookie (Oatmeal Raisin),60,Beverage,Pastries,22-09-2023,1,Indore,CAFE 2,60,33.0
+Croissant,70,Beverage,Pastries,23-09-2023,10,Bangalore,CAFE 2,700,385.00000000000006
+Danish Pastry,90,Beverage,Pastries,24-09-2023,3,Pune,CAFE 1,270,148.5
+Dumplings,150,Beverage,Snacks,25-09-2023,10,Indore,CAFE 1,1500,825.0000000000001
+Fries,100,Beverage,Snacks,26-09-2023,7,Pune,CAFE 2,700,385.00000000000006
+Gelato (Pistachio),100,Beverage,Ice Creams,27-09-2023,9,Pune,CAFE 3,900,495.00000000000006
+Ice Cream (Chocolate),100,Beverage,Ice Creams,28-09-2023,9,Pune,CAFE 3,900,495.00000000000006
+Ice Cream (Vanilla),80,Beverage,Ice Creams,29-09-2023,1,Delhi,CAFE 3,80,44.0
+Mozzarella Sticks,120,Beverage,Other,30-09-2023,5,Delhi,CAFE 2,600,330.0
+Muffin,100,Beverage,Other,01-10-2023,9,Pune,CAFE 2,900,495.00000000000006
+Nachos,300,Beverage,Snacks,02-10-2023,9,Delhi,CAFE 3,2700,1485.0000000000002
+Onion Rings,250,Beverage,Snacks,03-10-2023,4,Bangalore,CAFE 1,1000,550.0
+Pasta (Fettuccine Alfredo),250,Food,Other,04-10-2023,7,Pune,CAFE 3,1750,1050.0
+Pasta (Penne Arrabbiata),150,Food,Other,05-10-2023,6,Delhi,CAFE 1,900,540.0
+Pizza (Margherita),100,Food,Pizza,06-10-2023,7,Indore,CAFE 3,700,420.0
+Pizza (Pepperoni),140,Food,Pizza,07-10-2023,6,Indore,CAFE 2,840,504.0
+Pizza (Veggie),400,Food,Pizza,08-10-2023,3,Bangalore,CAFE 1,1200,720.0
+Pudding (Chocolate),80,Beverage,Desserts,09-10-2023,6,Delhi,CAFE 1,480,264.0
+Pudding (Vanilla),200,Beverage,Desserts,10-10-2023,3,Delhi,CAFE 2,600,330.0
+Quiche,150,Beverage,Other,11-10-2023,2,Bangalore,CAFE 2,300,165.0
+Salad (Caesar),120,Beverage,Salads,12-10-2023,2,Indore,CAFE 3,240,132.0
+Salad (Garden),180,Beverage,Salads,13-10-2023,2,Indore,CAFE 2,360,198.00000000000003
+Salad (Greek),70,Beverage,Salads,14-10-2023,9,Delhi,CAFE 2,630,346.5
+Scone,150,Beverage,Other,15-10-2023,10,Pune,CAFE 2,1500,825.0000000000001
+Spring Rolls,120,Beverage,Snacks,16-10-2023,1,Delhi,CAFE 2,120,66.0
+Sweet Potato Fries,200,Beverage,Snacks,17-10-2023,4,Delhi,CAFE 1,800,440.00000000000006
+Tacos (Beef),180,Beverage,Wraps/Tacos,18-10-2023,5,Delhi,CAFE 3,900,495.00000000000006
+Tacos (Chicken),160,Beverage,Wraps/Tacos,19-10-2023,1,Indore,CAFE 1,160,88.0
+Tacos (Veggie),200,Beverage,Wraps/Tacos,20-10-2023,1,Pune,CAFE 1,200,110.00000000000001
+Tiramisu,220,Beverage,Other,21-10-2023,7,Indore,CAFE 1,1540,847.0000000000001
+Wrap (Chicken),250,Beverage,Wraps/Tacos,22-10-2023,7,Pune,CAFE 1,1750,962.5000000000001
+Wrap (Veggie),260,Beverage,Wraps/Tacos,23-10-2023,7,Bangalore,CAFE 3,1820,1001.0000000000001
+Americano,200,Beverage,Other,24-10-2023,4,Indore,CAFE 1,800,440.00000000000006
+Apple Juice,150,Beverage,Juice,25-10-2023,9,Pune,CAFE 2,1350,742.5000000000001
+Black Tea,100,Beverage,Tea,26-10-2023,1,Bangalore,CAFE 2,100,55.00000000000001
+Bottled Water,80,Beverage,Other,27-10-2023,10,Pune,CAFE 2,800,440.00000000000006
+Cappuccino,250,Beverage,Other,28-10-2023,1,Delhi,CAFE 2,250,137.5
+Chai Latte,200,Beverage,Tea,29-10-2023,3,Pune,CAFE 2,600,330.0
+Coconut Water,150,Beverage,Other,30-10-2023,7,Delhi,CAFE 2,1050,577.5
+Cola,80,Beverage,Soda,31-10-2023,3,Indore,CAFE 1,240,132.0
+Cold Brew,220,Beverage,Iced Drinks,01-11-2023,7,Delhi,CAFE 2,1540,847.0000000000001
+Diet Cola,80,Beverage,Soda,02-11-2023,1,Pune,CAFE 1,80,44.0
+Energy Drink,150,Beverage,Soda,03-11-2023,3,Indore,CAFE 1,450,247.50000000000003
+Espresso,150,Beverage,Other,04-11-2023,10,Delhi,CAFE 1,1500,825.0000000000001
+Flat White,230,Beverage,Other,05-11-2023,8,Delhi,CAFE 3,1840,1012.0000000000001
+Ginger Ale,100,Beverage,Other,06-11-2023,8,Bangalore,CAFE 1,800,440.00000000000006
+Grapefruit Juice,150,Beverage,Juice,07-11-2023,8,Bangalore,CAFE 2,1200,660.0
+Green Tea,100,Beverage,Tea,08-11-2023,9,Indore,CAFE 2,900,495.00000000000006
+Herbal Tea,100,Beverage,Tea,09-11-2023,9,Pune,CAFE 1,900,495.00000000000006
+Hot Chocolate,220,Beverage,Other,10-11-2023,6,Indore,CAFE 1,1320,726.0000000000001
+Iced Coffee,200,Beverage,Coffee,11-11-2023,5,Indore,CAFE 3,1000,550.0
+Iced Tea,150,Beverage,Tea,12-11-2023,4,Pune,CAFE 2,600,330.0
+Latte,250,Beverage,Other,13-11-2023,8,Delhi,CAFE 1,2000,1100.0
+Lemon Lime Soda,80,Beverage,Soda,14-11-2023,6,Delhi,CAFE 3,480,264.0
+Lemonade,150,Beverage,Other,15-11-2023,10,Indore,CAFE 2,1500,825.0000000000001
+Matcha Latte,300,Beverage,Other,16-11-2023,1,Indore,CAFE 3,300,165.0
+Milkshake,200,Beverage,Ice Creams,17-11-2023,7,Pune,CAFE 1,1400,770.0000000000001
+Mocha,250,Beverage,Other,18-11-2023,10,Bangalore,CAFE 2,2500,1375.0
+Orange Juice,150,Beverage,Juice,19-11-2023,1,Indore,CAFE 2,150,82.5
+Root Beer,100,Beverage,Other,20-11-2023,8,Delhi,CAFE 3,800,440.00000000000006
+Smoothie,140,Beverage,Smoothies,21-11-2023,1,Pune,CAFE 3,140,77.0
+Sparkling Water,400,Beverage,Other,22-11-2023,10,Indore,CAFE 2,4000,2200.0
+Bagel,80,Beverage,Pastries,23-11-2023,6,Indore,CAFE 1,480,264.0
+Biscuit,50,Beverage,Other,24-11-2023,3,Indore,CAFE 1,150,82.5
+Brownie,120,Beverage,Desserts,25-11-2023,1,Indore,CAFE 3,120,66.0
+Burger (Beef),250,Food,Burger,26-11-2023,8,Bangalore,CAFE 1,2000,1200.0
+Burger (Chicken),220,Food,Burger,27-11-2023,10,Delhi,CAFE 3,2200,1320.0
+Burger (Veggie),200,Food,Burger,28-11-2023,3,Indore,CAFE 3,600,360.0
+Burrito (Bean),180,Food,Other,29-11-2023,1,Bangalore,CAFE 3,180,108.0
+Burrito (Chicken),220,Food,Other,30-11-2023,3,Pune,CAFE 1,660,396.0
+Cheesecake,200,Beverage,Desserts,01-12-2023,9,Delhi,CAFE 3,1800,990.0000000000001
+Chicken Wings,250,Beverage,Other,02-12-2023,1,Pune,CAFE 3,250,137.5
+Chocolate Cake,150,Beverage,Desserts,03-12-2023,8,Indore,CAFE 2,1200,660.0
+Cookie (Chocolate Chip),60,Beverage,Pastries,04-12-2023,7,Pune,CAFE 3,420,231.00000000000003
+Cookie (Oatmeal Raisin),60,Beverage,Pastries,05-12-2023,1,Pune,CAFE 2,60,33.0
+Croissant,70,Beverage,Pastries,06-12-2023,1,Bangalore,CAFE 3,70,38.5
+Danish Pastry,90,Beverage,Pastries,07-12-2023,2,Delhi,CAFE 3,180,99.00000000000001
+Dumplings,150,Beverage,Snacks,08-12-2023,6,Indore,CAFE 2,900,495.00000000000006
+Fries,100,Beverage,Snacks,09-12-2023,2,Delhi,CAFE 2,200,110.00000000000001
+Gelato (Pistachio),100,Beverage,Ice Creams,10-12-2023,10,Bangalore,CAFE 2,1000,550.0
+Ice Cream (Chocolate),100,Beverage,Ice Creams,11-12-2023,5,Bangalore,CAFE 3,500,275.0
+Ice Cream (Vanilla),80,Beverage,Ice Creams,12-12-2023,4,Delhi,CAFE 1,320,176.0
+Mozzarella Sticks,120,Beverage,Other,13-12-2023,10,Bangalore,CAFE 1,1200,660.0
+Muffin,100,Beverage,Other,14-12-2023,4,Indore,CAFE 1,400,220.00000000000003
+Nachos,300,Beverage,Snacks,15-12-2023,3,Bangalore,CAFE 1,900,495.00000000000006
+Onion Rings,250,Beverage,Snacks,16-12-2023,1,Bangalore,CAFE 3,250,137.5
+Pasta (Fettuccine Alfredo),250,Food,Other,17-12-2023,9,Indore,CAFE 1,2250,1350.0
+Pasta (Penne Arrabbiata),150,Food,Other,18-12-2023,5,Pune,CAFE 2,750,450.0
+Pizza (Margherita),100,Food,Pizza,19-12-2023,3,Bangalore,CAFE 2,300,180.0
+Pizza (Pepperoni),140,Food,Pizza,20-12-2023,7,Pune,CAFE 3,980,588.0
+Pizza (Veggie),400,Food,Pizza,21-12-2023,3,Indore,CAFE 2,1200,720.0
+Pudding (Chocolate),80,Beverage,Desserts,22-12-2023,3,Bangalore,CAFE 2,240,132.0
+Pudding (Vanilla),200,Beverage,Desserts,23-12-2023,10,Delhi,CAFE 2,2000,1100.0
+Quiche,150,Beverage,Other,24-12-2023,1,Delhi,CAFE 1,150,82.5
+Salad (Caesar),120,Beverage,Salads,25-12-2023,1,Pune,CAFE 2,120,66.0
+Salad (Garden),180,Beverage,Salads,26-12-2023,9,Pune,CAFE 1,1620,891.0000000000001
+Salad (Greek),70,Beverage,Salads,27-12-2023,10,Bangalore,CAFE 3,700,385.00000000000006
+Scone,150,Beverage,Other,28-12-2023,9,Indore,CAFE 3,1350,742.5000000000001
+Spring Rolls,120,Beverage,Snacks,29-12-2023,10,Pune,CAFE 2,1200,660.0
+Sweet Potato Fries,200,Beverage,Snacks,30-12-2023,5,Delhi,CAFE 3,1000,550.0
+Tacos (Beef),180,Beverage,Wraps/Tacos,31-12-2023,2,Indore,CAFE 1,360,198.00000000000003
+Tacos (Chicken),160,Beverage,Wraps/Tacos,01-01-2024,2,Pune,CAFE 3,320,176.0
+Tacos (Veggie),200,Beverage,Wraps/Tacos,02-01-2024,8,Bangalore,CAFE 3,1600,880.0000000000001
+Tiramisu,220,Beverage,Other,03-01-2024,8,Pune,CAFE 3,1760,968.0000000000001
+Wrap (Chicken),250,Beverage,Wraps/Tacos,04-01-2024,1,Bangalore,CAFE 1,250,137.5
+Wrap (Veggie),260,Beverage,Wraps/Tacos,05-01-2024,1,Pune,CAFE 2,260,143.0
+Americano,200,Beverage,Other,06-01-2024,3,Delhi,CAFE 3,600,330.0
+Apple Juice,150,Beverage,Juice,07-01-2024,10,Pune,CAFE 2,1500,825.0000000000001
+Black Tea,100,Beverage,Tea,08-01-2024,3,Indore,CAFE 3,300,165.0
+Bottled Water,80,Beverage,Other,09-01-2024,9,Bangalore,CAFE 3,720,396.00000000000006
+Cappuccino,250,Beverage,Other,10-01-2024,5,Indore,CAFE 1,1250,687.5
+Chai Latte,200,Beverage,Tea,11-01-2024,2,Delhi,CAFE 2,400,220.00000000000003
+Coconut Water,150,Beverage,Other,12-01-2024,10,Bangalore,CAFE 2,1500,825.0000000000001
+Cola,80,Beverage,Soda,13-01-2024,7,Delhi,CAFE 2,560,308.0
+Cold Brew,220,Beverage,Iced Drinks,14-01-2024,6,Bangalore,CAFE 3,1320,726.0000000000001
+Diet Cola,80,Beverage,Soda,15-01-2024,3,Bangalore,CAFE 1,240,132.0
+Energy Drink,150,Beverage,Soda,16-01-2024,8,Delhi,CAFE 3,1200,660.0
+Espresso,150,Beverage,Other,17-01-2024,10,Bangalore,CAFE 3,1500,825.0000000000001
+Flat White,230,Beverage,Other,18-01-2024,6,Delhi,CAFE 3,1380,759.0000000000001
+Ginger Ale,100,Beverage,Other,19-01-2024,10,Delhi,CAFE 2,1000,550.0
+Grapefruit Juice,150,Beverage,Juice,20-01-2024,3,Delhi,CAFE 2,450,247.50000000000003
+Green Tea,100,Beverage,Tea,21-01-2024,9,Pune,CAFE 2,900,495.00000000000006
+Herbal Tea,100,Beverage,Tea,22-01-2024,1,Pune,CAFE 3,100,55.00000000000001
+Hot Chocolate,220,Beverage,Other,23-01-2024,1,Bangalore,CAFE 2,220,121.00000000000001
+Iced Coffee,200,Beverage,Coffee,24-01-2024,2,Indore,CAFE 1,400,220.00000000000003
+Iced Tea,150,Beverage,Tea,25-01-2024,4,Delhi,CAFE 1,600,330.0
+Latte,250,Beverage,Other,26-01-2024,5,Delhi,CAFE 3,1250,687.5
+Lemon Lime Soda,80,Beverage,Soda,27-01-2024,1,Indore,CAFE 2,80,44.0
+Lemonade,150,Beverage,Other,28-01-2024,3,Pune,CAFE 2,450,247.50000000000003
+Matcha Latte,300,Beverage,Other,29-01-2024,3,Bangalore,CAFE 1,900,495.00000000000006
+Milkshake,200,Beverage,Ice Creams,30-01-2024,4,Delhi,CAFE 3,800,440.00000000000006
+Mocha,250,Beverage,Other,31-01-2024,9,Delhi,CAFE 1,2250,1237.5
+Orange Juice,150,Beverage,Juice,01-02-2024,5,Bangalore,CAFE 2,750,412.50000000000006
+Root Beer,100,Beverage,Other,02-02-2024,8,Delhi,CAFE 3,800,440.00000000000006
+Smoothie,140,Beverage,Smoothies,03-02-2024,6,Indore,CAFE 1,840,462.00000000000006
+Sparkling Water,400,Beverage,Other,04-02-2024,9,Pune,CAFE 2,3600,1980.0000000000002
+Bagel,80,Beverage,Pastries,05-02-2024,6,Bangalore,CAFE 2,480,264.0
+Biscuit,50,Beverage,Other,06-02-2024,9,Bangalore,CAFE 2,450,247.50000000000003
+Brownie,120,Beverage,Desserts,07-02-2024,6,Pune,CAFE 3,720,396.00000000000006
+Burger (Beef),250,Food,Burger,08-02-2024,5,Indore,CAFE 3,1250,750.0
+Burger (Chicken),220,Food,Burger,09-02-2024,6,Delhi,CAFE 3,1320,792.0
+Burger (Veggie),200,Food,Burger,10-02-2024,10,Delhi,CAFE 2,2000,1200.0
+Burrito (Bean),180,Food,Other,11-02-2024,6,Bangalore,CAFE 3,1080,648.0
+Burrito (Chicken),220,Food,Other,12-02-2024,7,Delhi,CAFE 3,1540,924.0
+Cheesecake,200,Beverage,Desserts,13-02-2024,2,Pune,CAFE 2,400,220.00000000000003
+Chicken Wings,250,Beverage,Other,14-02-2024,3,Delhi,CAFE 1,750,412.50000000000006
+Chocolate Cake,150,Beverage,Desserts,15-02-2024,3,Pune,CAFE 1,450,247.50000000000003
+Cookie (Chocolate Chip),60,Beverage,Pastries,16-02-2024,5,Delhi,CAFE 2,300,165.0
+Cookie (Oatmeal Raisin),60,Beverage,Pastries,17-02-2024,6,Delhi,CAFE 2,360,198.00000000000003
+Croissant,70,Beverage,Pastries,18-02-2024,9,Delhi,CAFE 1,630,346.5
+Danish Pastry,90,Beverage,Pastries,19-02-2024,10,Delhi,CAFE 3,900,495.00000000000006
+Dumplings,150,Beverage,Snacks,20-02-2024,8,Indore,CAFE 2,1200,660.0
+Fries,100,Beverage,Snacks,21-02-2024,4,Indore,CAFE 1,400,220.00000000000003
+Gelato (Pistachio),100,Beverage,Ice Creams,22-02-2024,4,Indore,CAFE 1,400,220.00000000000003
+Ice Cream (Chocolate),100,Beverage,Ice Creams,23-02-2024,9,Pune,CAFE 3,900,495.00000000000006
+Ice Cream (Vanilla),80,Beverage,Ice Creams,24-02-2024,1,Indore,CAFE 1,80,44.0
+Mozzarella Sticks,120,Beverage,Other,25-02-2024,4,Indore,CAFE 3,480,264.0
+Muffin,100,Beverage,Other,26-02-2024,9,Delhi,CAFE 3,900,495.00000000000006
+Nachos,300,Beverage,Snacks,27-02-2024,1,Bangalore,CAFE 2,300,165.0
+Onion Rings,250,Beverage,Snacks,28-02-2024,7,Pune,CAFE 3,1750,962.5000000000001
+Pasta (Fettuccine Alfredo),250,Food,Other,29-02-2024,1,Indore,CAFE 3,250,150.0
+Pasta (Penne Arrabbiata),150,Food,Other,01-03-2024,2,Indore,CAFE 2,300,180.0
+Pizza (Margherita),100,Food,Pizza,02-03-2024,9,Pune,CAFE 3,900,540.0
+Pizza (Pepperoni),140,Food,Pizza,03-03-2024,4,Pune,CAFE 2,560,336.0
+Pizza (Veggie),400,Food,Pizza,04-03-2024,8,Pune,CAFE 3,3200,1920.0
+Pudding (Chocolate),80,Beverage,Desserts,05-03-2024,7,Bangalore,CAFE 3,560,308.0
+Pudding (Vanilla),200,Beverage,Desserts,06-03-2024,3,Delhi,CAFE 1,600,330.0
+Quiche,150,Beverage,Other,07-03-2024,2,Pune,CAFE 1,300,165.0
+Salad (Caesar),120,Beverage,Salads,08-03-2024,4,Indore,CAFE 1,480,264.0
+Salad (Garden),180,Beverage,Salads,09-03-2024,8,Indore,CAFE 3,1440,792.0000000000001
+Salad (Greek),70,Beverage,Salads,10-03-2024,10,Bangalore,CAFE 2,700,385.00000000000006
+Scone,150,Beverage,Other,11-03-2024,9,Delhi,CAFE 1,1350,742.5000000000001
+Spring Rolls,120,Beverage,Snacks,12-03-2024,7,Bangalore,CAFE 2,840,462.00000000000006
+Sweet Potato Fries,200,Beverage,Snacks,13-03-2024,2,Pune,CAFE 1,400,220.00000000000003
+Tacos (Beef),180,Beverage,Wraps/Tacos,14-03-2024,2,Indore,CAFE 3,360,198.00000000000003
+Tacos (Chicken),160,Beverage,Wraps/Tacos,15-03-2024,2,Pune,CAFE 2,320,176.0
+Tacos (Veggie),200,Beverage,Wraps/Tacos,16-03-2024,8,Pune,CAFE 3,1600,880.0000000000001
+Tiramisu,220,Beverage,Other,17-03-2024,8,Bangalore,CAFE 1,1760,968.0000000000001
+Wrap (Chicken),250,Beverage,Wraps/Tacos,18-03-2024,10,Delhi,CAFE 3,2500,1375.0
+Wrap (Veggie),260,Beverage,Wraps/Tacos,19-03-2024,4,Indore,CAFE 1,1040,572.0
+Americano,200,Beverage,Other,20-03-2024,5,Bangalore,CAFE 2,1000,550.0
+Apple Juice,150,Beverage,Juice,21-03-2024,9,Indore,CAFE 3,1350,742.5000000000001
+Black Tea,100,Beverage,Tea,22-03-2024,1,Indore,CAFE 1,100,55.00000000000001
+Bottled Water,80,Beverage,Other,23-03-2024,4,Indore,CAFE 1,320,176.0
+Cappuccino,250,Beverage,Other,24-03-2024,3,Delhi,CAFE 1,750,412.50000000000006
+Chai Latte,200,Beverage,Tea,25-03-2024,3,Pune,CAFE 1,600,330.0
+Coconut Water,150,Beverage,Other,26-03-2024,3,Indore,CAFE 2,450,247.50000000000003
+Cola,80,Beverage,Soda,27-03-2024,9,Indore,CAFE 2,720,396.00000000000006
+Cold Brew,220,Beverage,Iced Drinks,28-03-2024,1,Delhi,CAFE 3,220,121.00000000000001
+Diet Cola,80,Beverage,Soda,29-03-2024,10,Indore,CAFE 3,800,440.00000000000006
+Energy Drink,150,Beverage,Soda,30-03-2024,9,Indore,CAFE 3,1350,742.5000000000001
+Espresso,150,Beverage,Other,31-03-2024,5,Delhi,CAFE 3,750,412.50000000000006
+Flat White,230,Beverage,Other,01-04-2024,4,Indore,CAFE 3,920,506.00000000000006
+Ginger Ale,100,Beverage,Other,02-04-2024,10,Bangalore,CAFE 3,1000,550.0
+Grapefruit Juice,150,Beverage,Juice,03-04-2024,5,Bangalore,CAFE 3,750,412.50000000000006
+Green Tea,100,Beverage,Tea,04-04-2024,10,Delhi,CAFE 2,1000,550.0
+Herbal Tea,100,Beverage,Tea,05-04-2024,2,Delhi,CAFE 3,200,110.00000000000001
+Hot Chocolate,220,Beverage,Other,06-04-2024,2,Bangalore,CAFE 2,440,242.00000000000003
+Iced Coffee,200,Beverage,Coffee,07-04-2024,3,Indore,CAFE 3,600,330.0
+Iced Tea,150,Beverage,Tea,08-04-2024,9,Bangalore,CAFE 1,1350,742.5000000000001
+Latte,250,Beverage,Other,09-04-2024,2,Delhi,CAFE 3,500,275.0
+Lemon Lime Soda,80,Beverage,Soda,10-04-2024,9,Bangalore,CAFE 3,720,396.00000000000006
+Lemonade,150,Beverage,Other,11-04-2024,1,Delhi,CAFE 3,150,82.5
+Matcha Latte,300,Beverage,Other,12-04-2024,8,Bangalore,CAFE 1,2400,1320.0
+Milkshake,200,Beverage,Ice Creams,13-04-2024,9,Indore,CAFE 1,1800,990.0000000000001
+Mocha,250,Beverage,Other,14-04-2024,7,Pune,CAFE 2,1750,962.5000000000001
+Orange Juice,150,Beverage,Juice,15-04-2024,4,Pune,CAFE 3,600,330.0
+Root Beer,100,Beverage,Other,16-04-2024,2,Delhi,CAFE 1,200,110.00000000000001
+Smoothie,140,Beverage,Smoothies,17-04-2024,6,Bangalore,CAFE 3,840,462.00000000000006
+Sparkling Water,400,Beverage,Other,18-04-2024,8,Bangalore,CAFE 2,3200,1760.0000000000002
+Bagel,80,Beverage,Pastries,19-04-2024,2,Bangalore,CAFE 2,160,88.0
+Biscuit,50,Beverage,Other,20-04-2024,9,Pune,CAFE 3,450,247.50000000000003
+Brownie,120,Beverage,Desserts,21-04-2024,2,Bangalore,CAFE 3,240,132.0
+Burger (Beef),250,Food,Burger,22-04-2024,3,Bangalore,CAFE 1,750,450.0
+Burger (Chicken),220,Food,Burger,23-04-2024,3,Delhi,CAFE 1,660,396.0
+Burger (Veggie),200,Food,Burger,24-04-2024,8,Bangalore,CAFE 1,1600,960.0
+Burrito (Bean),180,Food,Other,25-04-2024,4,Pune,CAFE 3,720,432.0
+Burrito (Chicken),220,Food,Other,26-04-2024,7,Pune,CAFE 2,1540,924.0
+Cheesecake,200,Beverage,Desserts,27-04-2024,3,Pune,CAFE 3,600,330.0
+Chicken Wings,250,Beverage,Other,28-04-2024,8,Bangalore,CAFE 1,2000,1100.0
+Chocolate Cake,150,Beverage,Desserts,29-04-2024,10,Pune,CAFE 1,1500,825.0000000000001
+Cookie (Chocolate Chip),60,Beverage,Pastries,30-04-2024,6,Pune,CAFE 2,360,198.00000000000003
+Cookie (Oatmeal Raisin),60,Beverage,Pastries,01-05-2024,4,Delhi,CAFE 1,240,132.0
+Croissant,70,Beverage,Pastries,02-05-2024,3,Delhi,CAFE 1,210,115.50000000000001
+Danish Pastry,90,Beverage,Pastries,03-05-2024,5,Indore,CAFE 2,450,247.50000000000003
+Dumplings,150,Beverage,Snacks,04-05-2024,4,Indore,CAFE 2,600,330.0
+Fries,100,Beverage,Snacks,05-05-2024,9,Indore,CAFE 2,900,495.00000000000006
+Gelato (Pistachio),100,Beverage,Ice Creams,06-05-2024,1,Pune,CAFE 3,100,55.00000000000001
+Ice Cream (Chocolate),100,Beverage,Ice Creams,07-05-2024,7,Delhi,CAFE 2,700,385.00000000000006
+Ice Cream (Vanilla),80,Beverage,Ice Creams,08-05-2024,8,Pune,CAFE 2,640,352.0
+Mozzarella Sticks,120,Beverage,Other,09-05-2024,3,Bangalore,CAFE 2,360,198.00000000000003
+Muffin,100,Beverage,Other,10-05-2024,4,Indore,CAFE 1,400,220.00000000000003
+Nachos,300,Beverage,Snacks,11-05-2024,1,Bangalore,CAFE 2,300,165.0
+Onion Rings,250,Beverage,Snacks,12-05-2024,8,Delhi,CAFE 2,2000,1100.0
+Pasta (Fettuccine Alfredo),250,Food,Other,13-05-2024,1,Indore,CAFE 1,250,150.0
+Pasta (Penne Arrabbiata),150,Food,Other,14-05-2024,10,Indore,CAFE 3,1500,900.0
+Pizza (Margherita),100,Food,Pizza,15-05-2024,3,Bangalore,CAFE 3,300,180.0
+Pizza (Pepperoni),140,Food,Pizza,16-05-2024,7,Indore,CAFE 1,980,588.0
+Pizza (Veggie),400,Food,Pizza,17-05-2024,2,Bangalore,CAFE 3,800,480.0
+Pudding (Chocolate),80,Beverage,Desserts,18-05-2024,1,Pune,CAFE 3,80,44.0
+Pudding (Vanilla),200,Beverage,Desserts,19-05-2024,6,Pune,CAFE 3,1200,660.0
+Quiche,150,Beverage,Other,20-05-2024,5,Bangalore,CAFE 1,750,412.50000000000006
+Salad (Caesar),120,Beverage,Salads,21-05-2024,6,Indore,CAFE 1,720,396.00000000000006
+Salad (Garden),180,Beverage,Salads,22-05-2024,3,Pune,CAFE 1,540,297.0
+Salad (Greek),70,Beverage,Salads,23-05-2024,4,Indore,CAFE 3,280,154.0
+Scone,150,Beverage,Other,24-05-2024,10,Delhi,CAFE 1,1500,825.0000000000001
+Spring Rolls,120,Beverage,Snacks,25-05-2024,9,Indore,CAFE 3,1080,594.0
+Sweet Potato Fries,200,Beverage,Snacks,26-05-2024,1,Bangalore,CAFE 2,200,110.00000000000001
+Tacos (Beef),180,Beverage,Wraps/Tacos,27-05-2024,7,Pune,CAFE 1,1260,693.0
+Tacos (Chicken),160,Beverage,Wraps/Tacos,28-05-2024,2,Delhi,CAFE 1,320,176.0
+Tacos (Veggie),200,Beverage,Wraps/Tacos,29-05-2024,2,Delhi,CAFE 2,400,220.00000000000003
+Tiramisu,220,Beverage,Other,30-05-2024,1,Bangalore,CAFE 1,220,121.00000000000001
+Wrap (Chicken),250,Beverage,Wraps/Tacos,31-05-2024,4,Delhi,CAFE 1,1000,550.0
+Wrap (Veggie),260,Beverage,Wraps/Tacos,01-06-2024,5,Pune,CAFE 2,1300,715.0000000000001
+Americano,200,Beverage,Other,02-06-2024,6,Pune,CAFE 1,1200,660.0
+Apple Juice,150,Beverage,Juice,03-06-2024,3,Bangalore,CAFE 3,450,247.50000000000003
+Black Tea,100,Beverage,Tea,04-06-2024,4,Indore,CAFE 2,400,220.00000000000003
+Bottled Water,80,Beverage,Other,05-06-2024,2,Indore,CAFE 3,160,88.0
+Cappuccino,250,Beverage,Other,06-06-2024,7,Indore,CAFE 3,1750,962.5000000000001
+Chai Latte,200,Beverage,Tea,07-06-2024,7,Delhi,CAFE 3,1400,770.0000000000001
+Coconut Water,150,Beverage,Other,08-06-2024,10,Indore,CAFE 2,1500,825.0000000000001
+Cola,80,Beverage,Soda,09-06-2024,9,Bangalore,CAFE 2,720,396.00000000000006
+Cold Brew,220,Beverage,Iced Drinks,10-06-2024,1,Indore,CAFE 3,220,121.00000000000001
+Diet Cola,80,Beverage,Soda,11-06-2024,6,Bangalore,CAFE 2,480,264.0
+Energy Drink,150,Beverage,Soda,12-06-2024,9,Delhi,CAFE 2,1350,742.5000000000001
+Espresso,150,Beverage,Other,13-06-2024,10,Pune,CAFE 3,1500,825.0000000000001
+Flat White,230,Beverage,Other,14-06-2024,8,Delhi,CAFE 2,1840,1012.0000000000001
+Ginger Ale,100,Beverage,Other,15-06-2024,10,Bangalore,CAFE 2,1000,550.0
+Grapefruit Juice,150,Beverage,Juice,16-06-2024,10,Pune,CAFE 2,1500,825.0000000000001
+Green Tea,100,Beverage,Tea,17-06-2024,7,Delhi,CAFE 2,700,385.00000000000006
+Herbal Tea,100,Beverage,Tea,18-06-2024,7,Bangalore,CAFE 1,700,385.00000000000006
+Hot Chocolate,220,Beverage,Other,19-06-2024,2,Pune,CAFE 3,440,242.00000000000003
+Iced Coffee,200,Beverage,Coffee,20-06-2024,5,Indore,CAFE 2,1000,550.0
+Iced Tea,150,Beverage,Tea,21-06-2024,3,Indore,CAFE 1,450,247.50000000000003
+Latte,250,Beverage,Other,22-06-2024,6,Bangalore,CAFE 2,1500,825.0000000000001
+Lemon Lime Soda,80,Beverage,Soda,23-06-2024,9,Bangalore,CAFE 2,720,396.00000000000006
+Lemonade,150,Beverage,Other,24-06-2024,6,Bangalore,CAFE 2,900,495.00000000000006
+Matcha Latte,300,Beverage,Other,25-06-2024,5,Pune,CAFE 1,1500,825.0000000000001
+Milkshake,200,Beverage,Ice Creams,26-06-2024,10,Pune,CAFE 3,2000,1100.0
+Mocha,250,Beverage,Other,27-06-2024,2,Pune,CAFE 1,500,275.0
+Orange Juice,150,Beverage,Juice,28-06-2024,4,Bangalore,CAFE 3,600,330.0
+Root Beer,100,Beverage,Other,29-06-2024,1,Bangalore,CAFE 2,100,55.00000000000001
+Smoothie,140,Beverage,Smoothies,30-06-2024,8,Indore,CAFE 1,1120,616.0
+Sparkling Water,400,Beverage,Other,01-07-2024,10,Delhi,CAFE 2,4000,2200.0
+Bagel,80,Beverage,Pastries,02-07-2024,10,Bangalore,CAFE 3,800,440.00000000000006
+Biscuit,50,Beverage,Other,03-07-2024,1,Delhi,CAFE 3,50,27.500000000000004
+Brownie,120,Beverage,Desserts,04-07-2024,4,Bangalore,CAFE 3,480,264.0
+Burger (Beef),250,Food,Burger,05-07-2024,1,Delhi,CAFE 2,250,150.0
+Burger (Chicken),220,Food,Burger,06-07-2024,4,Delhi,CAFE 1,880,528.0
+Burger (Veggie),200,Food,Burger,07-07-2024,1,Pune,CAFE 1,200,120.0
+Burrito (Bean),180,Food,Other,08-07-2024,6,Indore,CAFE 2,1080,648.0
+Burrito (Chicken),220,Food,Other,09-07-2024,9,Indore,CAFE 1,1980,1188.0
+Cheesecake,200,Beverage,Desserts,10-07-2024,3,Delhi,CAFE 1,600,330.0
+Chicken Wings,250,Beverage,Other,11-07-2024,10,Indore,CAFE 3,2500,1375.0
+Chocolate Cake,150,Beverage,Desserts,12-07-2024,4,Bangalore,CAFE 3,600,330.0
+Cookie (Chocolate Chip),60,Beverage,Pastries,13-07-2024,4,Pune,CAFE 2,240,132.0
+Cookie (Oatmeal Raisin),60,Beverage,Pastries,14-07-2024,2,Indore,CAFE 1,120,66.0
+Croissant,70,Beverage,Pastries,15-07-2024,9,Indore,CAFE 2,630,346.5
+Danish Pastry,90,Beverage,Pastries,16-07-2024,7,Indore,CAFE 1,630,346.5
+Dumplings,150,Beverage,Snacks,17-07-2024,1,Bangalore,CAFE 2,150,82.5
+Fries,100,Beverage,Snacks,18-07-2024,7,Indore,CAFE 1,700,385.00000000000006
+Gelato (Pistachio),100,Beverage,Ice Creams,19-07-2024,7,Indore,CAFE 1,700,385.00000000000006
+Ice Cream (Chocolate),100,Beverage,Ice Creams,20-07-2024,8,Pune,CAFE 3,800,440.00000000000006
+Ice Cream (Vanilla),80,Beverage,Ice Creams,21-07-2024,6,Delhi,CAFE 1,480,264.0
+Mozzarella Sticks,120,Beverage,Other,22-07-2024,1,Pune,CAFE 2,120,66.0
+Muffin,100,Beverage,Other,23-07-2024,2,Pune,CAFE 1,200,110.00000000000001
+Nachos,300,Beverage,Snacks,24-07-2024,7,Indore,CAFE 1,2100,1155.0
+Onion Rings,250,Beverage,Snacks,25-07-2024,1,Bangalore,CAFE 2,250,137.5
+Pasta (Fettuccine Alfredo),250,Food,Other,26-07-2024,6,Delhi,CAFE 3,1500,900.0
+Pasta (Penne Arrabbiata),150,Food,Other,27-07-2024,2,Delhi,CAFE 3,300,180.0
+Pizza (Margherita),100,Food,Pizza,28-07-2024,3,Indore,CAFE 2,300,180.0
+Pizza (Pepperoni),140,Food,Pizza,29-07-2024,9,Bangalore,CAFE 3,1260,756.0
+Pizza (Veggie),400,Food,Pizza,30-07-2024,3,Indore,CAFE 1,1200,720.0
+Pudding (Chocolate),80,Beverage,Desserts,31-07-2024,8,Pune,CAFE 2,640,352.0
+Pudding (Vanilla),200,Beverage,Desserts,01-08-2024,6,Indore,CAFE 1,1200,660.0
+Quiche,150,Beverage,Other,02-08-2024,3,Delhi,CAFE 3,450,247.50000000000003
+Salad (Caesar),120,Beverage,Salads,03-08-2024,7,Delhi,CAFE 1,840,462.00000000000006
+Salad (Garden),180,Beverage,Salads,04-08-2024,10,Pune,CAFE 2,1800,990.0000000000001
+Salad (Greek),70,Beverage,Salads,05-08-2024,3,Indore,CAFE 1,210,115.50000000000001
+Scone,150,Beverage,Other,06-08-2024,10,Pune,CAFE 2,1500,825.0000000000001
+Spring Rolls,120,Beverage,Snacks,07-08-2024,6,Delhi,CAFE 3,720,396.00000000000006
+Sweet Potato Fries,200,Beverage,Snacks,08-08-2024,6,Bangalore,CAFE 1,1200,660.0
+Tacos (Beef),180,Beverage,Wraps/Tacos,09-08-2024,7,Indore,CAFE 2,1260,693.0
+Tacos (Chicken),160,Beverage,Wraps/Tacos,10-08-2024,1,Indore,CAFE 1,160,88.0
+Tacos (Veggie),200,Beverage,Wraps/Tacos,11-08-2024,2,Pune,CAFE 1,400,220.00000000000003
+Tiramisu,220,Beverage,Other,12-08-2024,3,Indore,CAFE 3,660,363.00000000000006
+Wrap (Chicken),250,Beverage,Wraps/Tacos,13-08-2024,5,Indore,CAFE 2,1250,687.5
+Wrap (Veggie),260,Beverage,Wraps/Tacos,14-08-2024,10,Bangalore,CAFE 1,2600,1430.0000000000002
+Americano,200,Beverage,Other,15-08-2024,4,Delhi,CAFE 2,800,440.00000000000006
+Apple Juice,150,Beverage,Juice,16-08-2024,8,Pune,CAFE 3,1200,660.0
+Black Tea,100,Beverage,Tea,17-08-2024,8,Pune,CAFE 1,800,440.00000000000006
+Bottled Water,80,Beverage,Other,18-08-2024,2,Delhi,CAFE 1,160,88.0
+Cappuccino,250,Beverage,Other,19-08-2024,9,Bangalore,CAFE 2,2250,1237.5
+Chai Latte,200,Beverage,Tea,20-08-2024,6,Bangalore,CAFE 2,1200,660.0
+Coconut Water,150,Beverage,Other,21-08-2024,5,Bangalore,CAFE 1,750,412.50000000000006
+Cola,80,Beverage,Soda,22-08-2024,3,Bangalore,CAFE 2,240,132.0
+Cold Brew,220,Beverage,Iced Drinks,23-08-2024,10,Indore,CAFE 3,2200,1210.0
+Diet Cola,80,Beverage,Soda,24-08-2024,3,Pune,CAFE 1,240,132.0
+Energy Drink,150,Beverage,Soda,25-08-2024,4,Pune,CAFE 3,600,330.0
+Espresso,150,Beverage,Other,26-08-2024,1,Indore,CAFE 3,150,82.5
+Flat White,230,Beverage,Other,27-08-2024,8,Delhi,CAFE 1,1840,1012.0000000000001
+Ginger Ale,100,Beverage,Other,28-08-2024,1,Bangalore,CAFE 1,100,55.00000000000001
+Grapefruit Juice,150,Beverage,Juice,29-08-2024,5,Pune,CAFE 3,750,412.50000000000006
+Green Tea,100,Beverage,Tea,30-08-2024,8,Delhi,CAFE 1,800,440.00000000000006
